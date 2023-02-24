@@ -1,5 +1,6 @@
 # Sel-Parity-recon-algorithm-paper
-MATLAB implementation of two selective parity reconstruction algorithms from the paper Non-CPMG diffusion-weighted turbo spin-echo imaging using the selective parity approach (Aidin Arbabi, Vitaliy Khlebnikov, José P. Marques, and David G Norris). The best way to getting started is to read "readme.docs" file for each of the algorithm.
+MATLAB implementation of two selective parity reconstruction algorithms from the paper Non-CPMG diffusion-weighted turbo spin-echo imaging using the selective parity approach (Aidin Arbabi, Vitaliy Khlebnikov, José P. Marques, and David G Norris). 
+<br/>The best way to getting started is to read "readme.docs" file for each of the algorithm.<br/>
 
 Folder “matlabStuff” has the following dependencies:
 - FID-A-master: scripts for reading Siemens raw “*.dat” files.
